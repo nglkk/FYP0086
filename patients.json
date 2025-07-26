@@ -1,0 +1,191 @@
+[
+    {
+        "name": "John Tan",
+        "ic_number": "S1234567A",
+        "appointment_date": "2025-06-01",
+        "medication": "Paracetamol",
+        "dosage": "500mg, twice daily"
+    },
+    {
+        "name": "Sarah Lim",
+        "ic_number": "S7654321B",
+        "appointment_date": "2025-06-03",
+        "medication": "Amoxicillin",
+        "dosage": "250mg, three times daily"
+    },
+    {
+        "name": "Ahmad Ibrahim",
+        "ic_number": "S1357924C",
+        "appointment_date": "2025-06-05",
+        "medication": "Ibuprofen",
+        "dosage": "400mg, as needed"
+    },
+    {
+        "name": "Emily Wong",
+        "ic_number": "S5678901D",
+        "appointment_date": "2025-06-07",
+        "medication": "Cetirizine",
+        "dosage": "10mg, once daily"
+    },
+    {
+        "name": "Marcus Lee",
+        "ic_number": "S6789012E",
+        "appointment_date": "2025-06-08",
+        "medication": "Metformin",
+        "dosage": "500mg, twice daily"
+    },
+    {
+        "name": "Priya Nair",
+        "ic_number": "S7890123F",
+        "appointment_date": "2025-06-09",
+        "medication": "Lisinopril",
+        "dosage": "10mg, once daily"
+    },
+    {
+        "name": "Chen Wei",
+        "ic_number": "S8901234G",
+        "appointment_date": "2025-06-10",
+        "medication": "Atorvastatin",
+        "dosage": "20mg, once daily"
+    },
+    {
+        "name": "Nurul Aisyah",
+        "ic_number": "S9012345H",
+        "appointment_date": "2025-06-11",
+        "medication": "Omeprazole",
+        "dosage": "20mg, before breakfast"
+    },
+    {
+        "name": "David Ng",
+        "ic_number": "S0123456J",
+        "appointment_date": "2025-06-12",
+        "medication": "Levothyroxine",
+        "dosage": "100mcg, once daily"
+    },
+    {
+        "name": "Rachel Tan",
+        "ic_number": "S1122334K",
+        "appointment_date": "2025-06-13",
+        "medication": "Simvastatin",
+        "dosage": "20mg, once nightly"
+    },
+    {
+        "name": "Chen Goh",
+        "ic_number": "S1333000G",
+        "appointment_date": "2025-06-14",
+        "medication": "Amlodipine",
+        "dosage": "5mg, once daily"
+    },
+    {
+        "name": "Jia Smith",
+        "ic_number": "S1333001L",
+        "appointment_date": "2025-06-15",
+        "medication": "Ibuprofen",
+        "dosage": "400mg, as needed"
+    },
+    {
+        "name": "Leon Lau",
+        "ic_number": "S1333002G",
+        "appointment_date": "2025-06-16",
+        "medication": "Metformin",
+        "dosage": "500mg, twice daily"
+    },
+    {
+        "name": "Mei Ibrahim",
+        "ic_number": "S1333003F",
+        "appointment_date": "2025-06-17",
+        "medication": "Omeprazole",
+        "dosage": "20mg, before breakfast"
+    },
+    {
+        "name": "Ali Lau",
+        "ic_number": "S1333004B",
+        "appointment_date": "2025-06-18",
+        "medication": "Atorvastatin",
+        "dosage": "20mg, once daily"
+    },
+    {
+        "name": "Nurul Zhang",
+        "ic_number": "S1333005H",
+        "appointment_date": "2025-06-19",
+        "medication": "Atorvastatin",
+        "dosage": "20mg, once daily"
+    },
+    {
+        "name": "Wei Ong",
+        "ic_number": "S1333006H",
+        "appointment_date": "2025-06-20",
+        "medication": "Lisinopril",
+        "dosage": "10mg, once daily"
+    },
+    {
+        "name": "Nurul Ang",
+        "ic_number": "S1333007B",
+        "appointment_date": "2025-06-21",
+        "medication": "Levothyroxine",
+        "dosage": "100mcg, once daily"
+    },
+    {
+        "name": "Hana Yeo",
+        "ic_number": "S1333008D",
+        "appointment_date": "2025-06-22",
+        "medication": "Glipizide",
+        "dosage": "5mg, twice daily"
+    },
+    {
+        "name": "Siti Ong",
+        "ic_number": "S1333009E",
+        "appointment_date": "2025-06-23",
+        "medication": "Ibuprofen",
+        "dosage": "400mg, as needed"
+    },
+    {
+        "name": "Sarah Lau",
+        "ic_number": "S1333010L",
+        "appointment_date": "2025-06-24",
+        "medication": "Metformin",
+        "dosage": "500mg, twice daily"
+    },
+    {
+        "name": "Fiona Koh",
+        "ic_number": "S1333011H",
+        "appointment_date": "2025-06-25",
+        "medication": "Metformin",
+        "dosage": "500mg, twice daily"
+    },
+    {
+        "name": "Priya Chen",
+        "ic_number": "S1333012B",
+        "appointment_date": "2025-06-26",
+        "medication": "Amoxicillin",
+        "dosage": "250mg, three times daily"
+    },
+    {
+        "name": "Grace Liu",
+        "ic_number": "S1333013E",
+        "appointment_date": "2025-06-27",
+        "medication": "Amoxicillin",
+        "dosage": "250mg, three times daily"
+    },
+    {
+        "name": "Grace Chong",
+        "ic_number": "S1333014J",
+        "appointment_date": "2025-06-28",
+        "medication": "Levothyroxine",
+        "dosage": "100mcg, once daily"
+    },
+    {
+        "name": "Siti Tan",
+        "ic_number": "S1333015E",
+        "appointment_date": "2025-06-29",
+        "medication": "Simvastatin",
+        "dosage": "20mg, once nightly"
+    },
+    {
+        "name": "Marcus Chen",
+        "ic_number": "S1333016J",
+        "appointment_date": "2025-06-30",
+        "medication": "Amoxicillin",
+        "dosage": "250mg, three times daily"
+    }
+]
