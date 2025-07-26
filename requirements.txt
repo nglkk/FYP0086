@@ -1,0 +1,11 @@
+streamlit
+openai
+ollama
+pandas
+python-dotenv
+Pillow
+python-docx
+PyPDF2
+pytesseract
+opencv-python
+mistralai
